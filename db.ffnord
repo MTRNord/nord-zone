@@ -76,3 +76,5 @@ nextnode		    86400     IN        A     10.187.254.254
 ; Community Hosts (see https://wiki.freifunk.net/Freifunk_Nord/IP-Bereiche#Reservierte_Adressen)
 gwinfo			    86400     IN	A	10.187.255.60
 					    AAAA  2a03:2267:4e6f:7264:ba27:ebff:fe4f:8a02
+1.nordgedanken		    86400     IN	A	10.187.255.12
+					    AAAA  2a03:2267:4e6f:7264:cf06:192e:88e2:d0f3
